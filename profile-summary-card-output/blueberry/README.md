@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/silphire/silphire/main/profile-summary-card-output/blueberry/4-productive-time.svg)
+```
+
+    
